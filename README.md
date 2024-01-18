@@ -35,3 +35,6 @@ The script uses the `numberCheckOne` and `numberCheckTwo` functions for input va
 - The `operator` variable in the `main()` function is used without being defined; you may want to ensure it's correctly implemented or rename it to match the menu item.
 
 Feel free to complete the functions and adjust the script according to your specific needs.
+
+
+**Important Note** = There are some deficiencies in the code, it is an abandoned project.
